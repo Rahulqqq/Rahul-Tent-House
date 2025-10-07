@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/rahul-tent-house/static/css/main.6a59180f.css",
-    "main.js": "/rahul-tent-house/static/js/main.36451c76.js",
-    "static/js/488.3811995a.chunk.js": "/rahul-tent-house/static/js/488.3811995a.chunk.js",
-    "static/media/slick.svg": "/rahul-tent-house/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/rahul-tent-house/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/rahul-tent-house/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/rahul-tent-house/static/media/slick.295183786cd8a1389865.woff",
-    "index.html": "/rahul-tent-house/index.html",
-    "main.6a59180f.css.map": "/rahul-tent-house/static/css/main.6a59180f.css.map",
-    "main.36451c76.js.map": "/rahul-tent-house/static/js/main.36451c76.js.map",
-    "488.3811995a.chunk.js.map": "/rahul-tent-house/static/js/488.3811995a.chunk.js.map"
+    "main.css": "/Rahul-Tent-House/static/css/main.e28da2f7.css",
+    "main.js": "/Rahul-Tent-House/static/js/main.c180788d.js",
+    "static/js/488.3811995a.chunk.js": "/Rahul-Tent-House/static/js/488.3811995a.chunk.js",
+    "static/media/slick.svg": "/Rahul-Tent-House/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Rahul-Tent-House/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Rahul-Tent-House/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Rahul-Tent-House/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Rahul-Tent-House/index.html",
+    "main.e28da2f7.css.map": "/Rahul-Tent-House/static/css/main.e28da2f7.css.map",
+    "main.c180788d.js.map": "/Rahul-Tent-House/static/js/main.c180788d.js.map",
+    "488.3811995a.chunk.js.map": "/Rahul-Tent-House/static/js/488.3811995a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6a59180f.css",
-    "static/js/main.36451c76.js"
+    "static/css/main.e28da2f7.css",
+    "static/js/main.c180788d.js"
   ]
 }
