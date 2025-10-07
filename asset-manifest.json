@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/rahul-tent-house/static/css/main.6a59180f.css",
-    "main.js": "/rahul-tent-house/static/js/main.92528f26.js",
+    "main.js": "/rahul-tent-house/static/js/main.36451c76.js",
     "static/js/488.3811995a.chunk.js": "/rahul-tent-house/static/js/488.3811995a.chunk.js",
     "static/media/slick.svg": "/rahul-tent-house/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/rahul-tent-house/static/media/slick.a4e97f5a2a64f0ab1323.eot",
@@ -9,11 +9,11 @@
     "static/media/slick.woff": "/rahul-tent-house/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/rahul-tent-house/index.html",
     "main.6a59180f.css.map": "/rahul-tent-house/static/css/main.6a59180f.css.map",
-    "main.92528f26.js.map": "/rahul-tent-house/static/js/main.92528f26.js.map",
+    "main.36451c76.js.map": "/rahul-tent-house/static/js/main.36451c76.js.map",
     "488.3811995a.chunk.js.map": "/rahul-tent-house/static/js/488.3811995a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6a59180f.css",
-    "static/js/main.92528f26.js"
+    "static/js/main.36451c76.js"
   ]
 }
