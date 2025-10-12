@@ -1,19 +1,34 @@
 {
   "files": {
     "main.css": "/rahul-tent-house/static/css/main.6a59180f.css",
-    "main.js": "/rahul-tent-house/static/js/main.4fe90170.js",
+    "main.js": "/rahul-tent-house/static/js/main.beabb587.js",
     "static/js/488.3811995a.chunk.js": "/rahul-tent-house/static/js/488.3811995a.chunk.js",
+    "static/media/wedding5.jpg": "/rahul-tent-house/static/media/wedding5.aed37dcf47d1c73ec9a5.jpg",
+    "static/media/wedding1.jpg": "/rahul-tent-house/static/media/wedding1.2333b4527c1d902e9fd9.jpg",
+    "static/media/wedding6.jpg": "/rahul-tent-house/static/media/wedding6.fea1e0bb62fe72d4b03f.jpg",
+    "static/media/wedding stage decoration image.jpg": "/rahul-tent-house/static/media/wedding stage decoration image.ff5d62e7e8ab31f49ae6.jpg",
+    "static/media/wedding8.1.jpg": "/rahul-tent-house/static/media/wedding8.1.dca77aa6c83602f99095.jpg",
+    "static/media/wedding decoration image.jpg": "/rahul-tent-house/static/media/wedding decoration image.42cd93b41b36b2412736.jpg",
+    "static/media/Party Image.jpeg": "/rahul-tent-house/static/media/Party Image.64a54057f69e1bfbade2.jpeg",
+    "static/media/wedding-decoration.jpg": "/rahul-tent-house/static/media/wedding-decoration.6232a713437fff2f3bea.jpg",
+    "static/media/wedding lighting.webp": "/rahul-tent-house/static/media/wedding lighting.337aa7b9b16b82d4bc96.webp",
+    "static/media/wedding decoration Indian.jpg": "/rahul-tent-house/static/media/wedding decoration Indian.3a50b9f732c1a94d8afe.jpg",
+    "static/media/wedding decoration.jpg": "/rahul-tent-house/static/media/wedding decoration.198fb044705bcb615978.jpg",
+    "static/media/haldi-decoration.jpg": "/rahul-tent-house/static/media/haldi-decoration.1e15eb65fd2566f162dc.jpg",
+    "static/media/Indian Wedding decoration.jpg": "/rahul-tent-house/static/media/Indian Wedding decoration.3c82a4c95686cb5e0fa8.jpg",
+    "static/media/lighting decoration.jpg": "/rahul-tent-house/static/media/lighting decoration.f548f358b8bd6d9208e3.jpg",
+    "static/media/sound image.jpg": "/rahul-tent-house/static/media/sound image.328b769452560fdcb88e.jpg",
     "static/media/slick.svg": "/rahul-tent-house/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/rahul-tent-house/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/rahul-tent-house/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/rahul-tent-house/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/rahul-tent-house/index.html",
     "main.6a59180f.css.map": "/rahul-tent-house/static/css/main.6a59180f.css.map",
-    "main.4fe90170.js.map": "/rahul-tent-house/static/js/main.4fe90170.js.map",
+    "main.beabb587.js.map": "/rahul-tent-house/static/js/main.beabb587.js.map",
     "488.3811995a.chunk.js.map": "/rahul-tent-house/static/js/488.3811995a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6a59180f.css",
-    "static/js/main.4fe90170.js"
+    "static/js/main.beabb587.js"
   ]
 }
